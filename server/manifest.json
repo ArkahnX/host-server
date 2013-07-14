@@ -1,0 +1,13 @@
+{
+	"name": "Host Server",
+	"version": "0.1.0",
+	"api_version": 1,
+	"id": "host_server",
+	"main_file":"main.js",
+	"assets":{
+		"methods":["startServer"]
+	},
+
+	"description": "Host Server for game.",
+	"tags": ["server","host"]
+}
